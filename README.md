@@ -10,7 +10,9 @@ Carregamento Adicional: A funcionalidade "Load More" permite aos usuários carre
 
 Detalhes do Pokémon: Ao clicar em um Pokémon, são apresentados detalhes como número, nome, tipos e uma imagem, proporcionando uma experiência informativa e envolvente.
 
-![image](https://github.com/KauanAfonso/Pokedex/assets/144381805/2cbcb930-3501-4d63-a375-63dae7ffd6f9)
-![image](https://github.com/KauanAfonso/Pokedex/assets/144381805/b15eb580-e86d-4928-a5ea-76f0c3ad459f)
+![image](https://github.com/KauanAfonso/Pokedex/assets/144381805/1bc7fe37-3327-4318-abac-1f26d2bcac91)
+
+![image](https://github.com/KauanAfonso/Pokedex/assets/144381805/7216741b-f577-46f3-a651-d8b41effbe1d)
+
 
 
