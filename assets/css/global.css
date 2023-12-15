@@ -9,11 +9,12 @@ body{
     background-color: #f6F8FC;
 }
 
-.content{
+.content {
     padding: 1rem;
-    background-color:white;
-    height:100vh;
+    background-color: black;
+    height: 100vh;
     width: 100vw;
+    color: white;
 }
 
 @media screen and (min-width: 992px) {
