@@ -1,7 +1,7 @@
 # Pokedex
 
 Descrição
-O Pokedex Web App é uma aplicação web simples, desenvolvida com as tecnologias JavaScript, HTML e CSS, que proporciona uma experiência interativa para explorar e visualizar uma lista de Pokémon. A aplicação utiliza a PokeAPI fictícia para obter dados sobre os Pokémon, permitindo aos usuários conhecer mais sobre essas adoráveis criaturas.
+O Pokedex Web App é uma aplicação web, desenvolvida com as tecnologias JavaScript, HTML e CSS no bootcamp da DIO, que proporciona uma experiência interativa para explorar e visualizar uma lista de Pokémon. A aplicação utiliza a PokeAPI fictícia para obter dados sobre os Pokémon, permitindo aos usuários conhecer mais sobre essas adoráveis criaturas.
 
 Funcionalidades
 Listagem de Pokémon: Exibe inicialmente uma lista de Pokémon na página, proporcionando uma visão geral dos Pokémon disponíveis.
